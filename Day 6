@@ -1,1 +1,20 @@
 
+CODE 201 DAY 6
+
+I learned-----
+
+app.js file is dependant on tests.js file so it needs to be below it on the html page on atom.
+*order is really important!
+
+"TDD"- tester driven development
+"BDD"- behavior driven developmet
+
+accessing DOM:
+
+var myFavoriteUL = documnent.geElementById('Stuff');
+myFavoriteUL.textContent = 'OMG WHAT IS THIS WIZARDRY?!?!?'
+"OMG WHAT IS THIS WIZARDRY?!?!?"
+
+move this innto javascript- copy/paste
+
+reassigning property or access to see whats in the property.
