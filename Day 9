@@ -1,0 +1,17 @@
+Today I learned about Javascript flow and the order of events in code. 
+These are my notes:
+What happens when we open the page in the browser?
+Browser reads HTML
+Loads JS 
+1) Take stock of vsrs + function declarations + load into menu
+2) Run executable code
+
+after SUBMIT,
+event is triggered
+listener hears event
+grab data from form
+create new instance
+add new store to the allStores array
+allStores.push(this);
+
+I also learned a few debugging tips and little CSS things by browsing through Stack Overflow.
