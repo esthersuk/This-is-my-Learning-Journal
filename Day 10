@@ -1,0 +1,29 @@
+
+Today, I learned how to wireframe and use placehold.it for placeholders.
+These are the basic steps for wireframming:
+1) Build out HTML
+2) Build out CSS
+   A.Layout
+   B.Style
+3) Add content
+
+I also learned some handy coding-
+
+//prevent empty fields
+if(!theStoreLocations || !yourMinCustomersEachHour ||
+ !yourMaxCustomersEachHours || ! yourAvgCookiesPerHour) {
+return alert('All fields must have a value.You had one job')
+}
+// validate by type
+if (typeof minCustomersPerHour !== 'number') {
+ return alert('Min customers must be a number');
+}
+
+
+
+
+
+
+
+
+
