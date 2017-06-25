@@ -1,1 +1,23 @@
 
+Today, I learned more about code structure and executable code.
+
+CODE STRUCTURE-
+
+DATA
+----------------
+DEFINE BEHAVIORS
+2)function doSomething(){ ---- 
+3)function calls/eventlisteners
+1)cache check-(localstorage)
+----------------
+EXECUTABLE CODE
+   doSomething();---- 
+
+if(localStorage){
+  retrieve + assign
+}
+else{
+make instances
+}
+displayPics();
+container:addEventListener
